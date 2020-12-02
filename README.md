@@ -1,4 +1,4 @@
-![I design & code for the modern web](https://github.com/cosmin-cojocar/cosmin-cojocar/blob/master/cover.gif)
+![I design & code for the modern web](https://github.com/cosmin-cojocar/cosmin-cojocar/blob/main/cover.gif)
 
 Hey y'all, I'm Cosmin!, a Software Engineer currently based in Cluj-Napoca, Transylvania.
 
@@ -7,7 +7,7 @@ to understand business requirements and any technical limitations. I enjoy colla
 on all processes developing beautiful user interface components and implementing them while also responsible for the 
 entire web infrastructure, managing the interchange of data between the server and the users.
 
-#𝗦𝗸𝗶𝗹𝗹𝘀:
+# 𝗦𝗸𝗶𝗹𝗹𝘀:
 - Experienced UI developer trained in HTML5, CSS3, Javascript, ES6 & React.
 - Experienced with back-end programming languages like Java, Javascript & Python.
 - Proficiency with Git.
@@ -15,7 +15,7 @@ entire web infrastructure, managing the interchange of data between the server a
 - Server management and deployments.
 - Network Security & Servers administration.
 
-#𝗖𝗮𝗿𝗲𝗲𝗿 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+# 𝗖𝗮𝗿𝗲𝗲𝗿 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 - Managed multiple IT departments with eight web developers, two mobile developers, two QA engineers, two system administrators, and one DBA. The team was distributed across two countries.
 - Developed IT strategies.
 - Coordinated projects with other departments.
