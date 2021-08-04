@@ -51,7 +51,7 @@
 - ✅ &nbsp; Design Patterns
 - ✅ &nbsp; SOLID
 - ✅ &nbsp; GIT & HTML5 & CSS & SVG
-- ✅ &nbsp; UI/UX & TailwindCSS
+- ✅ &nbsp; UI / UX & TailwindCSS
 - ✅ &nbsp; Framer Motion
 - ✅ &nbsp; Agile Methodologies
 
@@ -59,16 +59,17 @@
 
 - 💰 &nbsp; Web Design
 - 💰 &nbsp; Web Development
-- 💰 &nbsp; UX Design
 - 💰 &nbsp; Website Setup
+- 💰 &nbsp; JAMStack Development
 - 💰 &nbsp; Mobile Apps
+- 💰 &nbsp; UX Design
 - 💰 &nbsp; SVG & Vector Design
 - 💰 &nbsp; Headless Architecture
 - 💰 &nbsp; E-commerce Websites
 - 💰 &nbsp; Firebase & NextJS
 - 💰 &nbsp; Payment Processing Integration
+- 💰 &nbsp; Responsive Web Design
 - 💰 &nbsp; YouTube Landing Page
-- 💰 &nbsp; JAMStack Development
 - 📈 &nbsp; SEO Analysis
 - 📈 &nbsp; SEO Audit
 - 📈 &nbsp; SEO Consulting
