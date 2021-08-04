@@ -1,6 +1,6 @@
 ![I design & code for the modern web](https://github.com/cosmin-cojocar/cosmin-cojocar/blob/main/cover.gif)
 
-<h1>About</h1>
+<h1>About ✅ </h1>
 
 🧑‍💻 &nbsp; I'm Cosmin, a software engineer from <strong>Cluj-Napoca, Transylvania</strong> 🇷🇴
 
@@ -12,8 +12,7 @@
 
 🌍 &nbsp; [https://cosmin.dev](https://cosmin.dev)
 
-<br/>
-<h1>Contact</h1>
+<h1>Contact 🤝</h1>
 
 <p>
   <a href="https://github.com/cosmin-cojocar" target="_blank">
@@ -30,8 +29,7 @@
   </a>
 </p>
 
-<br/>
-<h1>Skills</h1>
+<h1>Skills 💻 </h1>
 
 <p>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -57,7 +55,7 @@
 - ✅ &nbsp; Framer Motion
 - ✅ &nbsp; Agile Methodologies
 
-<h1>I18N</h1>
+<h1>I18N 🌍</h1>
 
 🇺🇸 Software Engineer 🇦🇺 Web Developer 🇬🇧 Frontend Developer 🇭🇷 Programer Softvera 🇨🇿 Vývojář Softwaru 🇩🇰 Softwareudvikler 🇫🇮 Ohjelmistokehittäjä 🇫🇷 Développeur Logiciel 🇩🇪 Software Entwickler 🇬🇷 Προγραμματιστής Λογισμικού 🇭🇺 Szoftverfejlesztő 🇮🇱 מפתח תוכנה 🇮🇹 Sviluppatore Software 🇯🇵 ソフトウェア開発者 🇰🇷 소프트웨어 개발자 🇱🇺 Software Entwéckler 🇳🇴 Programvareutvikler 🇵🇱 Programista 🇵🇹 Desenvolvedor de software 🇷🇴 Dezvoltator Software 🇷🇺 Разработчик Программного 🇷🇸 Програмер 🇸🇮 Razvijalec Programsk 🇧🇬 Програмист 🇪🇸 Desarrollador de software 🇸🇪 Mjukvaruutvecklare 🇹🇷 Yazılım geliştirici 🇺🇦 Розробник Програмного
 
