@@ -1,6 +1,6 @@
 ![I design & code for the modern web](https://github.com/cosmin-cojocar/cosmin-cojocar/blob/main/cover.gif)
 
-<h1>About ✅ </h1>
+<h1>About ✅</h1>
 
 🧑‍💻 &nbsp; I'm Cosmin, a software engineer from <strong>Cluj-Napoca, Transylvania</strong> 🇷🇴
 
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h1>Skills 💻 </h1>
+<h1>Skills 💻</h1>
 
 <p>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -54,6 +54,25 @@
 - ✅ &nbsp; UI/UX & TailwindCSS
 - ✅ &nbsp; Framer Motion
 - ✅ &nbsp; Agile Methodologies
+
+<h1>Premium Services 👌</h1>
+
+- 💰 &nbsp; Web Design
+- 💰 &nbsp; Web Development
+- 💰 &nbsp; UX Design
+- 💰 &nbsp; Website Setup
+- 💰 &nbsp; Mobile Apps
+- 💰 &nbsp; SVG & Vector Design
+- 💰 &nbsp; Headless Architecture
+- 💰 &nbsp; E-commerce Websites
+- 💰 &nbsp; Firebase & NextJS
+- 💰 &nbsp; Payment Processing Integration
+- 💰 &nbsp; YouTube Landing Page
+- 💰 &nbsp; JAMStack Development
+- 📈 &nbsp; SEO Analysis
+- 📈 &nbsp; SEO Audit
+- 📈 &nbsp; SEO Consulting
+- 📈 &nbsp; SEO Optimization
 
 <h1>I18N 🌍</h1>
 
