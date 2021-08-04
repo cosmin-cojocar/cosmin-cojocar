@@ -47,9 +47,9 @@
 </p>
 
 - ✅ &nbsp; JavaScript & TypeScript
-- ✅ &nbsp; React.JS & Redux
+- ✅ &nbsp; ReactJS & Redux
 - ✅ &nbsp; Web Development
-- ✅ &nbsp; Next.JS & Firebase
+- ✅ &nbsp; NextJS & Firebase
 - ✅ &nbsp; Design Patterns
 - ✅ &nbsp; SOLID
 - ✅ &nbsp; GIT & HTML5 & CSS & SVG
