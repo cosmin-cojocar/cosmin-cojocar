@@ -1,58 +1,67 @@
 ![I design & code for the modern web](https://github.com/cosmin-cojocar/cosmin-cojocar/blob/main/cover.gif)
 
-### Hi there and welcome to my GitHub page 👋
+<h1>About</h1>
 
-My name is Cosmin & I'm a Software Engineer currently based in Cluj-Napoca, Transylvania.
+🧑‍💻 &nbsp; I'm Cosmin, a software engineer from <strong>Cluj-Napoca, Transylvania</strong> 🇷🇴
 
-I'm a multi-talented jack-of-all-trades who possess knowledge in the areas of psychology, design, and technology. Able 
-to understand business requirements and any technical limitations. I enjoy collaborating with UI/UX designers/creators 
-on all processes developing beautiful user interface components and implementing them while also responsible for the 
-entire web infrastructure, managing the interchange of data between the server and the users.
+👋 &nbsp; I'm a specialized Senior Frontend Developer with 13+ years of experience in Web Development. I help companies design and implement their software solutions.
 
-### 𝗦𝗸𝗶𝗹𝗹𝘀
+💻 &nbsp; Only interested in remote work.
 
----
+🤝 &nbsp; Do you need software solutions for your business? Drop me a message!
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=white&style=for-the-badge" />
-</p>
+🌍 &nbsp; [https://cosmin.dev](https://cosmin.dev)
 
-- Experienced UI developer trained in HTML5, CSS3, Javascript, ES6 & React.
-- Experienced with back-end programming languages like Java, Javascript & Python.
-- Proficiency with Git.
-- Attention to clean code and details.
-
-### 𝗖𝗮𝗿𝗲𝗲𝗿 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
-
----
-
-- Managed multiple IT departments with eight web developers, two mobile developers, two QA engineers, two system administrators, and one DBA. The team was distributed across two countries.
-- Developed IT strategies & coordinated projects with other departments.
-- Architected systems & sub-systems and the communication pathways between them.
-- Deployed software to the production environment.
-- Developed API web services for mobile apps. 
-
-### Send me a message!
-
----
-
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Here is where you can find me:
+<br/>
+<h1>Contact</h1>
 
 <p>
-  <a href="https://www.instagram.com/id_cosmin/">
+  <a href="https://github.com/cosmin-cojocar" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100e?&logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/id_cosmin" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/cosmin-cojocar/">
+  <a href="https://www.linkedin.com/in/cosmin-cojocar" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://cosmin.dev" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-38b2ac?logo=google-chrome&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
+
+<br/>
+<h1>Skills</h1>
+
+<p>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="SVG" src="https://img.shields.io/badge/SVG-ffb13b?logo=svg&logoColor=white&style=for-the-badge" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+</p>
+
+- ✅ &nbsp; JavaScript & TypeScript
+- ✅ &nbsp; React.JS & Redux
+- ✅ &nbsp; Web Development
+- ✅ &nbsp; Next.JS & Firebase
+- ✅ &nbsp; Design Patterns
+- ✅ &nbsp; SOLID
+- ✅ &nbsp; GIT & HTML5 & CSS & SVG
+- ✅ &nbsp; UI/UX & TailwindCSS
+- ✅ &nbsp; Framer Motion
+- ✅ &nbsp; Agile Methodologies
+
+<h1>I18N</h1>
+
+🇺🇸 Software Engineer 🇦🇺 Web Developer 🇬🇧 Frontend Developer 🇭🇷 Programer Softvera 🇨🇿 Vývojář Softwaru 🇩🇰 Softwareudvikler 🇫🇮 Ohjelmistokehittäjä 🇫🇷 Développeur Logiciel 🇩🇪 Software Entwickler 🇬🇷 Προγραμματιστής Λογισμικού 🇭🇺 Szoftverfejlesztő 🇮🇱 מפתח תוכנה 🇮🇹 Sviluppatore Software 🇯🇵 ソフトウェア開発者 🇰🇷 소프트웨어 개발자 🇱🇺 Software Entwéckler 🇳🇴 Programvareutvikler 🇵🇱 Programista 🇵🇹 Desenvolvedor de software 🇷🇴 Dezvoltator Software 🇷🇺 Разработчик Программного 🇷🇸 Програмер 🇸🇮 Razvijalec Programsk 🇧🇬 Програмист 🇪🇸 Desarrollador de software 🇸🇪 Mjukvaruutvecklare 🇹🇷 Yazılım geliştirici 🇺🇦 Розробник Програмного
+
+
 
 <!--
 ### Github stats
